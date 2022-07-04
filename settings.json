@@ -1,0 +1,34 @@
+{
+    "General Settings": {
+        "Use Proxies": true,
+        "Scrape Proxies": true,
+        "Use Random API": true,
+        "Tasks": 50,
+        "Delay": 0,
+        "Show Logs": true
+    },
+    "Nuke Settings": {
+        "Token": "",
+        "Prefix": ",",
+        "Server Name": "lol",
+        "Channel Names": ["comet v3", "get sonned lol"],
+        "Role Names": ["comet v3 owo", "comet recoded!"],
+        "Spam Contents": [
+            "@everyone get beamed discord.gg/socials",
+            "@everyone comet v3.1",
+            "@everyone imagine 😭😂"
+        ],
+        "Webhook Usernames": [
+            "lol",
+            "lol"
+        ],
+        "Whitelisted": [
+            884654862636298281
+        ],
+        "Authorized": [
+            884654862636298281
+        ],
+        "Webhook Spam": false,
+        "Bot": true
+    }
+}
